@@ -31,7 +31,7 @@ const chartConfig = {
     dataLabels: {
       enabled: false,
     },
-    colors: ["#00ff00"],
+    colors: ["#ff007f"],
     plotOptions: {
       bar: {
         columnWidth: "30%",
@@ -77,7 +77,7 @@ const chartConfig = {
     },
     grid: {
       show: true,
-      borderColor: "#dddddd",
+      borderColor: "lightgrey",
       strokeDashArray: 5,
       xaxis: {
         lines: {

@@ -7,7 +7,7 @@ const Home = () => (
     <Followers />
     {/* <FollowerChart /> */}
     <div className='flex gap-10'>
-    <div className='w-[600px] border border-[#00ff00] shadow-2xl rounded-lg'>
+    <div className='w-[600px] border border-[#ff007f] shadow-2xl rounded-lg'>
     <VideoView/>
     </div>
    <div>

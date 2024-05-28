@@ -30,7 +30,7 @@ const CardList = () => {
   return (
     <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-4'>
       {stats.map((stat) => (
-        <div key={stat.id} className="relative border border-[#00ff00] shadow-2xl text-[#619AEB] mt-6 flex flex-col rounded-xl border bg-clip-border text-gray-700 shadow-md">
+        <div key={stat.id} className="relative border border-[#ff007f] shadow-2xl text-[#619AEB] mt-6 flex flex-col rounded-xl border bg-clip-border text-gray-700 shadow-md">
           <div className="p-6">
             <div className='flex justify-between'>
               <div>

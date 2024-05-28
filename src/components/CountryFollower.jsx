@@ -5,10 +5,10 @@ import { useDrawingArea } from "@mui/x-charts/hooks";
 import { styled } from "@mui/material/styles";
 
 const data = [
-  { value: 5, label: "Nepal", color: "#00ff80" },
-  { value: 10, label: "United State", color: "#008f40" },
-  { value: 13, label: "Israel", color: "#078f00" },
-  { value: 20, label: "South Africa", color: "#006f00" },
+  { value: 5, label: "Nepal", color: "#ff6ec7" },
+  { value: 10, label: "United State", color: "#ff5ccd" },
+  { value: 13, label: "Israel", color: "#ff007f" },
+  { value: 20, label: "South Africa", color: "#e0218a" },
 ];
 
 const size = {

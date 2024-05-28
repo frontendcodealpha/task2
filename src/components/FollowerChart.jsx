@@ -31,7 +31,7 @@ const chartConfig = {
     dataLabels: {
       enabled: false,
     },
-    colors: ["#00ff00"],
+    colors: ["#ff007f"],
     stroke: {
       lineCap: "round",
       curve: "smooth",
